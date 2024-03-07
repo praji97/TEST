@@ -1,1 +1,2 @@
 This is a sample file to check git revert
+Updated this file
